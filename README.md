@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michał Rutkowski
 - 👀 I’m interested in Programming, new technologies and public health
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning SQL and python
 - 📫 How to reach me michal.rutkowski99r@gmail.com
 
 <!---
